@@ -4,7 +4,9 @@ Bu proje, kişisel veya kurumsal profiller için basit ve şık bir **Sosyal Lin
 
 ## 📸 Önizleme
 
-![Sosyal Kart Önizleme](eklenecek-ekran-goruntusu-url)
+![Sosyal Medya Kartı]
+<br>
+<img src="Ekran Resmi 2025-07-09 01.16.50-1.png" width="200">
 
 ## 🚀 Özellikler
 
@@ -20,7 +22,13 @@ This project provides a clean and elegant **Social Link Card** design for person
 
 ## 📸 Preview
 
-![Social Card Preview](insert-screenshot-url-here)
+![Social Card Preview]
+<br>
+<img src="Ekran Resmi 2025-07-09 01.16.50-1.png" width="200">
+
+
+
+
 
 ## 🚀 Features
 
