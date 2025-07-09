@@ -1,20 +1,24 @@
+<table>
+<tr>
+<td>
+
 # 🌐 Sosyal Link Kartı
 
 Bu proje, kişisel veya kurumsal profiller için basit ve şık bir **Sosyal Link Kartı** tasarımı sunar. Kullanıcılar, tüm sosyal medya profillerini tek bir kartta toplayabilir ve bağlantılar üzerinden erişim sağlayabilir.
 
 ## 📸 Önizleme
 
-![Sosyal Medya Kartı]
-<br>
 <img src="Ekran Resmi 2025-07-09 01.16.50-1.png" width="200">
 
 ## 🚀 Özellikler
 
-- Mobil uyumlu ve responsive tasarım
-- Kişi fotoğrafı ve bilgileri
-- GitHub, LinkedIn, Instagram, Twitter gibi sosyal bağlantılar
-- Temiz HTML + CSS yapısı
-<hr>
+- Mobil uyumlu ve responsive tasarım  
+- Kişi fotoğrafı ve bilgileri  
+- GitHub, LinkedIn, Instagram, Twitter gibi sosyal bağlantılar  
+- Temiz HTML + CSS yapısı  
+
+</td>
+<td>
 
 # 🌐 Social Link Card
 
@@ -22,17 +26,15 @@ This project provides a clean and elegant **Social Link Card** design for person
 
 ## 📸 Preview
 
-![Social Card Preview]
-<br>
 <img src="Ekran Resmi 2025-07-09 01.16.50-1.png" width="200">
-
-
-
-
 
 ## 🚀 Features
 
-- Mobile-friendly and responsive design
-- Profile image and user information
-- Links to GitHub, LinkedIn, Instagram, Twitter, etc.
-- Clean HTML + CSS structure
+- Mobile-friendly and responsive design  
+- Profile image and user information  
+- Links to GitHub, LinkedIn, Instagram, Twitter, etc.  
+- Clean HTML + CSS structure  
+
+</td>
+</tr>
+</table>
